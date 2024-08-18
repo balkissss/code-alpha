@@ -177,19 +177,9 @@ win.play.clicked.connect(play)
 app.exec_()
 
 
-# In[ ]:
 
 
 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
